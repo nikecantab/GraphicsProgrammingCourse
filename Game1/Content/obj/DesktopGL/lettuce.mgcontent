@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/nikec/Documents/My Other Projects/HKU/GraphicsProgramming/Lesson1/Game1/Game1/Content/lettuce.fbx</SourceFile>
+  <SourceTime>2021-03-11T15:14:01.9721476+01:00</SourceTime>
+  <DestFile>C:/Users/nikec/Documents/My Other Projects/HKU/GraphicsProgramming/Lesson1/Game1/Game1/Content/bin/DesktopGL/lettuce.xnb</DestFile>
+  <DestTime>2021-03-11T15:30:15.2890954+01:00</DestTime>
+  <Importer>FbxImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>ModelProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>DefaultEffect</Key>
+    <Value>BasicEffect</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateTangentFrames</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyTextureAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyVertexColors</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeTexturesToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationX</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationY</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationZ</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Scale</Key>
+    <Value>1</Value>
+  </Parameters>
+  <Parameters>
+    <Key>SwapWindingOrder</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>NoChange</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset>
+    <string>C:/Users/nikec/Documents/My Other Projects/HKU/GraphicsProgramming/Lesson1/Game1/Game1/Content/bin/DesktopGL/lettuce_tex_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>
